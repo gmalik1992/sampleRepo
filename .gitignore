@@ -2,3 +2,4 @@ test_file.txt
 MyWebsite/
 .DS_Store
 *.py
+dotenv_repo
